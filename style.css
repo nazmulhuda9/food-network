@@ -1,0 +1,32 @@
+h1{
+    font-size: 60px;
+}
+.orange{
+    color: orange;
+}
+.container-flex{
+    display: flex;
+}
+.half-width{
+    width: 90%;
+    margin: 30px;
+}
+.half-width img{
+    width: 95%;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.text-padding{
+ padding-left: 8%;
+ padding-top: 5%;
+ font-size: larger;
+}
+.link-button{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(rgb(9, 10, 73) , rgb(0, 204, 255));
+border-radius: 40px;
+font-weight: 700;
+
+}
